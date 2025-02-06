@@ -1,4 +1,4 @@
-## "Everything is an attack vector. It just depends on how you look at it."
+## "Everything is an attack vector. it is just about how you perceive it."
 
 When I got into DevSecOps, I started seeing security differently. It wasn’t just about patching vulnerabilities or running scans. It was about how people think. Security isn’t just about defense—it’s about perception.
 
